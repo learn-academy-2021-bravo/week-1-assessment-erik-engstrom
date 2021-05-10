@@ -119,23 +119,23 @@
 // Use the test variables provided below. Expected output: "true is not a string" "42 is not a string" "mCdngMstr"
 // Hint: There is an operator in JavaScript called typeof :)
 
-var refactorTester1 = true
-var refactorTester2 = 42
-var refactorTester3 = "IAmACodingMaster"
+// var refactorTester1 = true
+// var refactorTester2 = 42
+// var refactorTester3 = "IAmACodingMaster"
 
-const noVowels = (string) => {
-    // use string method .toLowerCase() to convert all letters to lowercase
-    let lower = string.toLowerCase()
-    // write an if statement to only pass through a string and give an error if any other data type is passed in the argument.
-    if (typeof lower !== ""){
-        return false;
-    }
-    // Else statement to return if argument is a string
-    else{
-    return lower.replace(/[aeiou]/g, '')
-    }
+// const noVowels = (string) => {
+//     // use string method .toLowerCase() to convert all letters to lowercase
+//     let lower = string.toLowerCase()
+//     // write an if statement to only pass through a string and give an error if any other data type is passed in the argument.
+//     if (typeof lower !== ""){
+//         return false;
+//     }
+//     // Else statement to return if argument is a string
+//     else{
+//     return lower.replace(/[aeiou]/g, '')
+//     }
     
-}
-console.log(noVowels(refactorTester1))
-console.log(noVowels(refactorTester2))
-console.log(noVowels(refactorTester3))
+// }
+// console.log(noVowels(refactorTester1))
+// console.log(noVowels(refactorTester2))
+// console.log(noVowels(refactorTester3))
