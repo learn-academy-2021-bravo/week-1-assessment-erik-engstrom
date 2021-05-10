@@ -44,8 +44,8 @@ var weekendDays = ["saturday", "sunday"]
 
 // --------------------5) What will this log?
 
-var dataTypes = ["number", "string", "Boolean"]
-console.log(typeof dataTypes.length)
+var dataTypes = ["number", "string", "boolean"]
+console.log(typeof (dataTypes))
 
 // a) Your answer: String
 // b) Verify and explain: All the data types in the array dataTypes are strings. Even though they say number, string and boolean, they are strings because they're wrapped in quotations "". I ran the code and it returned number. Not 100% sure why.

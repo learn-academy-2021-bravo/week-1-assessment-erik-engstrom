@@ -50,7 +50,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. What is something we did in class this week you found helpful?  
 
-  Your answer: 
+  Your answer: I found the continuous practice with GitHub and the terminal really helpful. Coding challenges are really helpful as well to put the coding work into practice and working on developing good coding practies. 
 
 
 
@@ -58,12 +58,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: Higher order functions are functions that take another function as the argument and is then evaluated 
 
-2. Jest:
+2. Jest: Jest is a testing framework designed to be used as a way to ensure correctness of any javascript codebase. 
 
-3. Classes:
+3. Classes: Classes are templates for creating objects by encapsulating data with code to work on that data. 
 
-4. Constructor:
+4. Constructor: The constructor is a special method of a class for creating and initializing an object of that class. It enables you to provide a custom initialization that must be done before any other methods can be called on an object.
 
-5. React:
+5. React: Is an open sourced javascript library for building UI components. React was developed by Facebook and provides a way to dynamically update a website or application without refreshing the browser or application.
